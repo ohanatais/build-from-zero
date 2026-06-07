@@ -112,7 +112,7 @@ This repo is part of a broader set of open-source resources:
 
 Made by [Ohana Taís](https://github.com/ohanatais) — Senior PM based in Brazil, building in public.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana-taís-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
 
 ---
 
