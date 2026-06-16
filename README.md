@@ -89,8 +89,8 @@ Work in progress — built in public.
 |---|---|
 | 01 · Product thinking | 🔄 In progress |
 | 02 · Brand and copy | 🔄 In progress |
-| 03 · Building with Claude | 📋 Planned |
-| 04 · Go-to-market | 📋 Planned |
+| 03 · Building with Claude | 🔄 In progress |
+| 04 · Go-to-market | 🔄 In progress |
 
 ---
 
