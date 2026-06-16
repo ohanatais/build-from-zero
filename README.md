@@ -56,7 +56,7 @@ build-from-zero/
     └── first-users.md
 ```
 
-**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills) — install them in your project and use them with Claude Code.
+**Claude Code skills** for each stage live directly inside each deep-dive repo — one folder per topic, each with its own SKILL.md. Install them in your project and use them with Claude Code. (For example, [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy) ship their skills today.)
 
 ---
 
@@ -88,7 +88,7 @@ Work in progress — built in public.
 | Stage | Status |
 |---|---|
 | 01 · Product thinking | 🔄 In progress |
-| 02 · Brand and copy | 📋 Planned |
+| 02 · Brand and copy | 🔄 In progress |
 | 03 · Building with Claude | 📋 Planned |
 | 04 · Go-to-market | 📋 Planned |
 
@@ -104,7 +104,7 @@ This repo is part of a broader set of open-source resources:
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone of voice, product copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Claude Code for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, channels, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for each stage · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day · PT-BR |
 
 ---
 
