@@ -34,7 +34,7 @@ This repo is the complete guide. Each stage links to a specialized repo with dee
 ```
 build-from-zero/
 │
-├── 01-product-thinking/    → deep dive: github.com/ohanatais/product-thinking
+├── 01-product-discovery/    → deep dive: github.com/ohanatais/product-discovery
 │   ├── market-research.md
 │   ├── idea-validation.md
 │   ├── personas.md
@@ -56,7 +56,7 @@ build-from-zero/
     └── first-users.md
 ```
 
-**Claude Code skills** for each stage live directly inside each deep-dive repo — one folder per topic, each with its own SKILL.md. Install them in your project and use them with Claude Code. (For example, [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy) ship their skills today.)
+**Claude Code skills** for each stage live directly inside each deep-dive repo — one folder per topic, each with its own SKILL.md. Install them in your project and use them with Claude Code. (For example, [product-discovery](https://github.com/ohanatais/product-discovery) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy) ship their skills today.)
 
 ---
 
@@ -74,7 +74,7 @@ build-from-zero/
 Follow the modules in order if you're starting from zero.
 
 Jump to the stage you're at if you're already mid-build:
-- Have an idea but not sure if it's worth it? → `01-product-thinking`
+- Have an idea but not sure if it's worth it? → `01-product-discovery`
 - Struggling with positioning, naming, or copy? → `02-brand-and-copy`
 - Ready to build but lost in the technical decisions? → `03-building`
 - Have something working and want to launch? → `04-go-to-market`
@@ -100,7 +100,7 @@ This repo is part of a broader set of open-source resources:
 
 | Repo | Focus |
 |---|---|
-| [product-thinking](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-discovery) | Market research, validation, personas, PRD |
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone of voice, product copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Claude Code for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, channels, first users |
